@@ -50,6 +50,14 @@ SOCK은 숙명여대와 HiFiveLab이 참여한 산학 협력 프로젝트로 **�
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
       </td>
     </tr>
+    <tr>
+      <td>백엔드</td>
+      <td>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
