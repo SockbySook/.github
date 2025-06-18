@@ -17,9 +17,9 @@ SOCK은 숙명여대와 HiFiveLab이 참여한 산학 협력 프로젝트로 **�
 |![Image](https://github.com/user-attachments/assets/8e08215d-eb61-4c4e-a251-50366e7a3caf)| ![Image](https://github.com/user-attachments/assets/093421c3-11db-4ec1-ae85-037b679296f2)| ![Image](https://github.com/user-attachments/assets/ac833cd0-425b-4816-976a-050d245e6117) 
 
 
-|토큰 보내기|토큰 받기|도움말|
-|:-:|:-:|:-:|
-|![Image](https://github.com/user-attachments/assets/9ae57ef4-06fd-482d-902a-97f75bf7ea4a)| ![Image](https://github.com/user-attachments/assets/6eaad1fe-a019-4570-9bb5-39166989cfd6)| ![Image](https://github.com/user-attachments/assets/28937e96-b3b0-49da-8e00-3a3192baf6cd)|
+|토큰 보내기|토큰 받기|거래내역 확인|도움말|
+|:-:|:-:|:-:|:-:|
+|![Image](https://github.com/user-attachments/assets/9ae57ef4-06fd-482d-902a-97f75bf7ea4a)| ![Image](https://github.com/user-attachments/assets/6eaad1fe-a019-4570-9bb5-39166989cfd6)| ![Image](https://github.com/user-attachments/assets/ce75000e-485d-4cf8-85b1-87929a6e56e6)| ![Image](https://github.com/user-attachments/assets/7751e051-bc4e-43ec-9076-bef10f7b4277)|
 
 ---
 
