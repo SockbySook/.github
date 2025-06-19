@@ -12,6 +12,17 @@ SOCK은 숙명여대와 HiFiveLab이 참여한 산학 협력 프로젝트로 **�
 
 ## 📌 주요 기능
 
+**1. 비밀번호 설정 및 입력**
+- 앱 최초 이용 시, 영문 숫자 조합 8자 이상의 비밀번호 설정
+- 이후 설정한 비밀번호 재입력으로 앱 사용이 가능함
+**2. 지갑 생성 및 복구**
+- 지갑 생성 버튼 클릭 시 니모닉 문구 생성
+- 기존 니모닉 문구로 이후 지갑 복구 가능
+**3. 토큰 보내기/받기**
+**4. 거래내역(트랜잭션) 확인**
+**5. 도움말 기능**
+
+
 |비밀번호 설정 및 입력|지갑 생성|지갑 복구|
 |:-:|:-:|:-:|
 |![Image](https://github.com/user-attachments/assets/8e08215d-eb61-4c4e-a251-50366e7a3caf)| ![Image](https://github.com/user-attachments/assets/093421c3-11db-4ec1-ae85-037b679296f2)| ![Image](https://github.com/user-attachments/assets/ac833cd0-425b-4816-976a-050d245e6117) 
